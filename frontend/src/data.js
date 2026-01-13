@@ -18,6 +18,7 @@ export const myExperience = [
     period: "Januari 2023 - April 2023",
     desc: "Perakitan, pemeliharaan, dan perbaikan perangkat keras komputer serta instalasi perangkat lunak untuk pelanggan.",
   },
+  
 ];
 
 // Data Archive
