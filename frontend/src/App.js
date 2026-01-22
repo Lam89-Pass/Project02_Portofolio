@@ -3,7 +3,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Code, Briefcase, Mail, Github, Instagram, Linkedin, ExternalLink, Shield, Activity, User, Database, Award, Calendar, BookOpen, Layers, Terminal, Download, Globe, Home, MessageSquare, Lock, Cpu } from "lucide-react";
 import { TypeAnimation } from "react-type-animation";
 import { myExperience, myArchive, myEducation, mySkills, myProjectsData } from "./data";
-import AdminDashboard from "./AdminDashboard";
 
 const MatrixRain = () => {
   return (
